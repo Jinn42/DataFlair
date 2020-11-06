@@ -101,12 +101,8 @@ cv2.destroyAllWindows()
 
 
 # In[ ]:
-
-
-
-
-
-# In[ ]:
+#Note:run the following code in terminal with adding the image path and then double click on image to check the color. For further details and to download data, check the link in 'readme'.
+#python color_detection.py -i <add your image path here>
 
 
 
